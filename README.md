@@ -1,0 +1,2 @@
+# Data-Science-Final
+The final project for this course will assess the application of key programming techniques and analytic concepts introduced in this course. You (and one parter if you chose) will import and transform a raw dataset, perform exploratory, and descriptive analysis with appropriate summary statistics and visualizations to determine and apply foundational analytic models on the provided data using either R or Python. It is an open-ended guided project! 
